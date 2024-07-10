@@ -1,4 +1,4 @@
-# Gouge: A simple Burp extension to extract or gouge all URLs which are seen in JS files as you visit different websites/webpages in Burp Suite
+# A simple Burp extension to extract or gouge all URLs which are seen in JS files as you visit different websites/webpages in Burp Suite
 
 ## What is Gouge?
 
