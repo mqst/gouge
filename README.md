@@ -1,5 +1,7 @@
 # Gouge: Gouge for URLs!
 
+### Watch the Video: https://youtu.be/9yXQ2UXfH4E
+
 ## What is Gouge?
 
 Gouge is a simple Burp extension to extract or gouge all URLs which are seen in JS files as you visit different websites/webpages in Burp Suite. It is a Burp Suite extension written in Python and uses the Burp Suite API to extract URLs from JS files.
