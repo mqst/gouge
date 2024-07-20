@@ -27,7 +27,3 @@ pip install -r requirements.txt
 ## How to contribute to Gouge?
 
 If you have any suggestions or improvements for Gouge, please open an issue or submit a pull request on the [Gouge GitHub repository](https://github.com/mqst/gouge).
-
-## License
-
-Gouge is released under the MIT License. See the LICENSE file for more information.
